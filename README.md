@@ -88,9 +88,6 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Data Structures And Algorithms Made Easy](https://www.amazon.in/dp/B08CMLS7LZ)
 - [Cracking the Coding Interview](https://www.amazon.in/dp/0984782850)
 
-## 📩 Newsletter
-- [AlgoMaster Newsletter](https://blog.algomaster.io/)
-
 ## 🔎 Visualization
 - [VisuAlgo](https://visualgo.net/en)
 - [Algo-lens: Visualize leetcode problems](https://github.com/jaroslaw-weber/algo-lens)
