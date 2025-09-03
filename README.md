@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="images/leetcode-repo-logo.png" width="350" height="200">
-</p>
-<p align="center">
-  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
-</p>
-
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
-
-👉 If you want to master DSA patterns, checkout [AlgoMaster.io](https://algomaster.io)
 
 ## 💡 Tips
 - [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
