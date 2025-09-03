@@ -1,3 +1,4 @@
+##    Data Structure and Algorithms
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
 ## 💡 Tips
